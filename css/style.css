@@ -1,0 +1,158 @@
+.fst_head{
+    color: rgb(8, 8, 224);
+    font-size: 70px;
+    background-color: brown;
+    font-style: oblique;
+}
+.fst_tr{
+    color: cyan;
+    background-color: rgb(63, 30, 30);
+    font-size:65px;
+}
+.fst{
+    color: forestgreen;
+    background-color: gainsboro;
+    font-size: 50px;
+}
+.second_tr{
+    color: magenta;
+    background-color: midnightblue;
+    font-size: 45px;
+}
+.link{
+    color: rgb(13, 13, 235);
+    background-color: rgb(17, 240, 129);
+    font-size: 40px;
+}
+.address{
+    color: rgb(240, 48, 14);
+    background: rgb(4, 14, 43);
+    font-size: 44px;
+}
+.audio{
+    color: rgb(177, 13, 46);
+    font-size: 43px;
+   border: lawngreen;
+   background-color: lightcyan;
+}
+.text{
+    background-color: rgb(12, 179, 245);
+    font-size: 46px;
+    color: rgb(73, 4, 4);
+}
+.image{
+    background-color: rgb(150, 60, 117);
+    font-style: italic;
+    font-size: 45px;
+    color: orange;
+}
+
+.sumon{
+    background-color: rgb(156, 119, 50);
+    font: 50px;
+    color: orchid;
+}
+.ami{
+    background-color: rgb(219, 29, 29);
+    font-size: 45px;
+    color: rgb(233, 233, 17);
+}
+.correct{
+    background-color: violet;
+    font-size: 45px;
+    color: tomato;
+}
+.smaller{
+    background-color: rgb(107, 39, 27);
+    font: 40px;
+    color: yellow;
+}
+.document{
+    background-color: orangered;
+    font-size: 40px;
+    color: palegoldenrod;
+}
+.subscript{
+    background-color: rgb(233, 233, 17);
+    font-size: 40px;
+    color: yellowgreen;
+}
+.sup{
+    background-color: brown;
+    font-size: 45px;
+    color: chartreuse;
+}
+.underline{
+    background-color: cornflowerblue;
+    font-size: 44px;
+    color: darkorange;
+}
+.video{
+    background-color: darkslategrey;
+    font-size: 35px;
+    color: dimgrey;
+    border: fuchsia;
+}
+.time{
+    background-color: rgb(11, 94, 29);
+    font-size: 39px;
+    color: goldenrod;
+    border: grey;
+}
+.list{
+    background-color: lightgray;
+    font: message-box;
+    color: lightsalmon;
+    font-size: 40px;
+}
+.date{
+    background-color: rgb(10, 255, 51);
+    color: rgb(51, 22, 10);
+    font-size: 40px;
+}
+.article{  
+      background-color: rgb(117, 35, 80);
+    color: rgb(173, 75, 33);
+    font-size:33px
+
+}
+.caption{
+    background-color: crimson;
+    color: darkgreen;
+    font-size: 45px;
+    border: darkorange;
+    font-style: italic;
+}
+.welcome{
+    background-color: mintcream;
+    color: rgb(26, 26, 145);
+    font: lighter;
+    font-size: 44px;
+}
+.dfm{
+    background-color: rgb(186, 196, 54);
+    color: rgb(3, 112, 30);
+    font-size: 44px;
+}
+.fil{
+    background-color: rgb(217, 247, 21);
+    color: rgb(230, 10, 238);
+    font-size: 44px;
+}
+.footer{
+    background-color: rgb(75, 2, 2);
+    color: rgb(10, 250, 70);
+    font-size: 44px;
+}
+.form{
+    background-color: rgba(21, 6, 156, 0.842);
+    color: rgb(206, 203, 15);
+    font-size: 44px;
+    border: rgb(107, 39, 27);
+}
+.hr{
+    background-color: rgb(233, 233, 17);
+    color: rgba(red, green, blue, alpha);
+    border: maroon;
+    font-size: 40px;
+}
